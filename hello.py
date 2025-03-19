@@ -1,6 +1,7 @@
 print("Hello World")
 print("Hllow Parul University")
 print("Hello...")
+print("HELLO")
 print(2+3)
 print(2*3)
 print(2/3)
